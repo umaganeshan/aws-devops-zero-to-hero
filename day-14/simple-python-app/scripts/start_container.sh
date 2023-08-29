@@ -5,4 +5,4 @@ set -e
 docker pull hayanthiek/k8s_learning
 
 # Run the Docker image as a container
-docker run -d -p 5000:5000 hayanthiek/k8s_learning
+docker run -d -p 5000:5000 hayanthiek/k8s_learning 
